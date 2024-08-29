@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![lesson_test](https://github.com/YoungHhustler/hexlet-my-first-workflow/actions/workflows/lesson_test.yml/badge.svg)](https://github.com/YoungHhustler/hexlet-my-first-workflow/actions/workflows/lesson_test.yml)
